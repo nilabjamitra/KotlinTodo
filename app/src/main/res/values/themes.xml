@@ -1,0 +1,44 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Kotlintodo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Kotlintodo" parent="Base.Theme.Kotlintodo" />
+
+    <!-- screen background -->
+
+    <style name="ShapeAppearance.M3.Comp.SearchView.FullScreen.Container.Shape.">
+
+        <item name="android:background">#FFFFFF</item>
+
+    </style>
+
+    <!-- text background -->
+
+    <style name="TextAppearance.AppCompat.SearchResult.Subtitle.">
+
+        <item name="android:textColor">#FF000000</item>
+
+    </style>
+
+    <!-- button -->
+
+    <style name="Base.TextAppearance.AppCompat.Button.">
+
+        <item name="android:background">@android:color/white</item>
+        <item name="android:textColor">@android:color/black</item>">
+
+    </style>
+
+    <style name="Theme.Kotlintodo.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Kotlintodo.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Kotlintodo.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

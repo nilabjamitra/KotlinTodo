@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529594071021",
+    "project_id": "kotlintodo-64f3e",
+    "storage_bucket": "kotlintodo-64f3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529594071021:android:bc19bad39db32e817cd9e4",
+        "android_client_info": {
+          "package_name": "com.example.kotlintodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4OIkYdyS9HPEb-OHfAvoCwdZ6iTZHpzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
