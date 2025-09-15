@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Nilabja Mitra**
 - GitHub: [@nilabjamitra](https://github.com/nilabjamitra)
-- Email: your.email@example.com
+- Email: nilabja22@gmail.com
 
 ## 🙏 Acknowledgments
 
